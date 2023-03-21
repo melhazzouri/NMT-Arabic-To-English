@@ -33,3 +33,9 @@ Translation from Arabic to English
 
 ![Capture](https://user-images.githubusercontent.com/39967400/226687796-914205c0-5ec7-4963-b9ab-e3874a4a6da9.PNG)
 
+# Dataset
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/samirmoustafa/arabic-to-english-translation-sentences).
+
+For further details see the notebooks in the repository.
+
+
