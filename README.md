@@ -30,5 +30,6 @@ Convert back the final prediction by our model into text format.
 
 # Results 
 Translation from Arabic to English
+
 ![Capture](https://user-images.githubusercontent.com/39967400/226687796-914205c0-5ec7-4963-b9ab-e3874a4a6da9.PNG)
 
