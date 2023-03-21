@@ -7,7 +7,7 @@ Neural machine translation (NMT) is a machine translation approach that involves
 
 To date, limited research has been conducted in the area of Arabic language processing. Here, a Recurrent Neural network (RNN) was built to to translate Arabic text into English using Keras. 
 
-Preprocess
+# Preprocess
 For this project, the text will be converted into sequence of integers using the following preprocess methods: 
 
 1- Tokenize the words into ids
