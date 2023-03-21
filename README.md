@@ -1,4 +1,5 @@
 # Arabic to English Translation
+Hi! سلام!
 
 Machine translation is a specialized area within computational linguistics that is dedicated to the automated conversion of text in one language to another language. In this process, the input text is already composed of symbols from a particular language, and the machine translation program must convert these symbols into symbols that correspond to another language.
 
@@ -26,3 +27,8 @@ When processing a sequence of word ids in batches, it is necessary for each sequ
 ### Predictions 
 
 Convert back the final prediction by our model into text format.
+
+# Results 
+Translation from Arabic to English
+![Capture](https://user-images.githubusercontent.com/39967400/226687796-914205c0-5ec7-4963-b9ab-e3874a4a6da9.PNG)
+
