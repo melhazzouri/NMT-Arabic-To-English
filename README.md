@@ -1,4 +1,4 @@
-# Arabic to English Translation
+# Arabic-to-English NMT Using Recurrent Neural Networks (RNN) and Keras
 Hi! سلام!
 
 Machine translation is a specialized area within computational linguistics that is dedicated to the automated conversion of text in one language to another language. In this process, the input text is already composed of symbols from a particular language, and the machine translation program must convert these symbols into symbols that correspond to another language.
